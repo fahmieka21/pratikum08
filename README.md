@@ -1,1 +1,5 @@
 # pratikum08
+
+
+
+oklah
