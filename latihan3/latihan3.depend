@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544769117 source:d:\labs\pratikum08\latihan3\main.cpp
+	<cstdlib>
+	<iostream>
+
